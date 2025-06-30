@@ -1,6 +1,6 @@
 🧠 AI_Coding_Agent
 
-Agent REED is a smart Python-based coding agent powered by **Gemin** that can understand, edit, and execute Python code. It reads your directory, interprets Python files, runs code, and generates intelligent output using LLM reasoning — all through a simple CLI interface.
+Agent REED is a smart Python-based coding agent powered by **Gemini** that can understand, edit, and execute Python code. It reads your directory, interprets Python files, runs code, and generates intelligent output using LLM reasoning — all through a simple CLI interface.
 
 ---
 
